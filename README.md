@@ -1,6 +1,6 @@
-<h1>  
-  <<source src="movie.mp4" type="video/mp4" align="center"/>
-</h1>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300"/>
+</div>
 
 <h1>
   <b>Hi everyone! Welcome to my Github profile!<b>
