@@ -1,7 +1,7 @@
 ##**Hi everyone! Welcome to my Github profile!**👋
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/GP1TJJSV4Ys1r64q2A/giphy.gif](https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/GP1TJJSV4Ys1r64q2A/giphy.gif" width="300"/>
 </div>
 
 ✍️ A few words about me
