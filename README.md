@@ -1,8 +1,12 @@
 ##**Hi everyone! Welcome to my Github profile!**👋
 
+
+
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400"/>
 </div>
+
+
 
 ✍️ A few words about me
 
