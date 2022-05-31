@@ -36,7 +36,6 @@ Studying to be a Machine Learning Engineer with AiCore
 <div> 
 
   
-### :fire: My Stats :
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=johnnyk1090&theme=github-dark)](https://git.io/streak-stats)
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnyk1090&layout=compact&theme=vision-friendly-dark)]           
+### :fire: My Stats :  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=johnnyk1090&theme=github-dark)](https://git.io/streak-stats)  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnyk1090&layout=compact&theme=vision-friendly-dark)]           
