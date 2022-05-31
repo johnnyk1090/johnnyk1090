@@ -34,3 +34,7 @@ Studying to be a Machine Learning Engineer with AiCore
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="git/git-original-wordmark" alt="git/git-original-wordmark" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="numpy/numpy-original-wordmark"  alt="numpy/numpy-original-wordmark" width="40" height="40"/>&nbsp;
 <div> 
+
+  
+### :fire: My Stats :
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=johnnyk1090&theme=github-dark)](https://git.io/streak-stats)
