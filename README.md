@@ -1,16 +1,17 @@
-### Hi there 👋
+**Hi everyone! Welcome to my Github profile!**👋
 
-<!--
-**johnnyk1090/johnnyk1090** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✍️ A few words about me
 
-Here are some ideas to get you started:
+Studying to be a Machine Learning Engineer with AiCore
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working as a Data Analyst
+- 👷‍ I have worked for a few years as a Software Application Developer and Database Administrator
+- 🧑‍💻 MSc degree in Computing from University of Sheffield, UK
+- 🌱 I’m currently learning NLP (Natural Language Processing)
+- 👯 I’m looking to collaborate with professionals on NLP engineering industry
+- 📫 How to reach me: konteas17giannis@gmail.com
+
+
+
+🛠️ Languages and Tools
+Python  Pandas  Opencv  Tensorflow  Selenium  MySQL  Docker  VScode  Jupyter  Git Numpy TF-IDF CountVectorizer :python
