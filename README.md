@@ -1,3 +1,8 @@
+<div id="header" align="center">
+  <img src="https://github.com/johnnyk1090/johnnyk1090/blob/main/On4YyLEG_a.jpg" width="400"/>
+  <p><b>"Declining from the public ways, walk in unfrequented paths"</b></p>
+</div>
+
 <h1>
   <b>Hi everyone! Welcome to my Github profile!<b>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -6,7 +11,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="200"/>
 </div>
 
 
