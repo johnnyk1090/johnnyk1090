@@ -14,4 +14,4 @@ Studying to be a Machine Learning Engineer with AiCore
 
 
 🛠️ Languages and Tools
-Python  Pandas  Opencv  Tensorflow  Selenium  MySQL  Docker  VScode  Jupyter  Git Numpy TF-IDF CountVectorizer :python
+:Python  Pandas  Opencv  Tensorflow  Selenium  MySQL  Docker  VScode  Jupyter  Git Numpy TF-IDF CountVectorizer 
