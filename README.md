@@ -1,5 +1,5 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300"/>
+<div id="header" align="center">  
+  <img src="https://github.com/johnnyk1090/johnnyk1090/blob/main/Navy%20Minimalist%20Space%20Quote%20Animated%20Instagram%20Story.png" width=fit-content/>
 </div>
 
 <h1>
