@@ -12,14 +12,12 @@
 
 ✍️ A few words about me
 
-Studying to be a Machine Learning Engineer with AiCore
-
 
 - 🔭 I’m currently working as a Data Analyst
 - 👷‍ I have worked for a few years as a Software Application Developer and Database Administrator
 - 🧑‍💻 MSc in Computing from University of Sheffield, UK
 - 🌱 I’m currently learning NLP (Natural Language Processing)
-- 👯 I’m looking to collaborate with professionals on NLP Engineering Industry
+- 👯 I’m looking to collaborate with professionals as a Machine Learning Engineer (in Healthcare/Pharmaceutical industry)
 - 📫 How to reach me: konteas17giannis@gmail.com
 
 
