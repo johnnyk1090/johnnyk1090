@@ -2,8 +2,9 @@
   <b>Hi everyone! Welcome to my Github profile!<b>   
 </h1>
 
-<iframe src="https://giphy.com/embed/3mfxH0nbfVFLt1gTpq" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/newquest-respect-nao-robot-3mfxH0nbfVFLt1gTpq">via GIPHY</a></p>
-
+<iframe src="https://giphy.com/embed/3mfxH0nbfVFLt1gTpq" width="480" height="270" frameborder="0" class="giphy-embed" allowfullscreen></iframe>
+  <p><a href="https://giphy.com/gifs/newquest-respect-nao-robot-3mfxH0nbfVFLt1gTpq">via GIPHY</a></p>
+  
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"/>
 </div>
