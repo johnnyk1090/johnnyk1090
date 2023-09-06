@@ -1,9 +1,7 @@
 <h1>
   <b>Hi everyone! Welcome to my Github profile!<b>
-  <img src="https://giphy.com/gifs/pudgypenguins-lie-dev-data-doesnt-LaVp0AyqR5bGsC5Cbm/fullscreen](https://tenor.com/el/view/hi-gif-23520343)"/>
+  <img src="👋"/>
 </h1>
-
-<div class="tenor-gif-embed" data-postid="23520343" data-share-method="host" data-aspect-ratio="1.02564" data-width="100%"><a href="https://tenor.com/view/hi-gif-23520343">Hi Sticker</a>from <a href="https://tenor.com/search/hi-stickers">Hi Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 
 <div id="header" align="center">
