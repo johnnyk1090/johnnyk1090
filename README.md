@@ -1,6 +1,6 @@
 <h1>
   <b>Hi everyone! Welcome to my Github profile!<b>
-  <img src="[https://giphy.com/gifs/pudgypenguins-lie-dev-data-doesnt-LaVp0AyqR5bGsC5Cbm/fullscreen](https://tenor.com/el/view/hi-gif-23520343)"/>
+  <img src="https://giphy.com/gifs/pudgypenguins-lie-dev-data-doesnt-LaVp0AyqR5bGsC5Cbm/fullscreen](https://tenor.com/el/view/hi-gif-23520343)"/>
 </h1>
 
 
