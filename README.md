@@ -1,6 +1,5 @@
 <h1>
-  <b>Hi everyone! Welcome to my Github profile!<b>  
-    <img src= "https://tenor.com/el/view/hedea-gif-19038437"
+  <b>Hi everyone! Welcome to my Github profile!<b>      
 </h1>
 
 <div id="header" align="center">
