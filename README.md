@@ -1,6 +1,6 @@
 <h1>
   <b>Hi everyone! Welcome to my Github profile!<b>
-  <img src="👋"/>
+  <img src=(https://tenor.com/el/view/mechanical-legs-researching-go-internet-robots-mechanical-leg-gif-5672384783506730125)/>
 </h1>
 
 
