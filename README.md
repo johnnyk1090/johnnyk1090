@@ -1,6 +1,6 @@
 <h1>
   <b>Hi everyone! Welcome to my Github profile!<b>  
-    <img src="https://giphy.com/gifs/newquest-respect-nao-robot-3mfxH0nbfVFLt1gTpq"/>
+    <iframe src="https://giphy.com/embed/3mfxH0nbfVFLt1gTpq" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/newquest-respect-nao-robot-3mfxH0nbfVFLt1gTpq">via GIPHY</a></p>
 </h1>
 
 <div id="header" align="center">
