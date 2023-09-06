@@ -1,7 +1,7 @@
 <h1>
   <b>Hi everyone! Welcome to my Github profile!<b>   
     <div>
-  <img src = "https://i.gifer.com/3q63.gif"/>
+      <img src = "https://i.gifer.com/3q63.gif"/>
     </div>
 </h1>
 
