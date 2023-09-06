@@ -1,6 +1,6 @@
 <h1>
   <b>Hi everyone! Welcome to my Github profile!<b>  
-    <iframe src="https://giphy.com/embed/3mfxH0nbfVFLt1gTpq" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/newquest-respect-nao-robot-3mfxH0nbfVFLt1gTpq">via GIPHY</a></p>
+    <img src= "https://tenor.com/el/view/hedea-gif-19038437"
 </h1>
 
 <div id="header" align="center">
