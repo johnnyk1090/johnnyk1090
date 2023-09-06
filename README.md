@@ -1,7 +1,8 @@
 <h1>
-  <b>Hi everyone! Welcome to my Github profile!<b>
-  <img src="https://giphy.com/embed/3mfxH0nbfVFLt1gTpq" width="480" height="270" frameBorder="0" class="giphy-embed""/>
+  <b>Hi everyone! Welcome to my Github profile!<b>  
 </h1>
+
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/3mfxH0nbfVFLt1gTpq" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/newquest-respect-nao-robot-3mfxH0nbfVFLt1gTpq">via GIPHY</a></p>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"/>
