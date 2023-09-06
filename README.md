@@ -1,23 +1,10 @@
-<!DOCTYPE html>
-<html>
-
-<head>
-  <title>My GitHub Profile</title>
-</head>
-
-<body>
-  <h1>Hi everyone! Welcome to my Github profile!</h1>
-
-  <div style="text-align: center;">
-    <iframe src="https://giphy.com/embed/3mfxH0nbfVFLt1gTpq" width="480" height="270" frameborder="0" class="giphy-embed" allowfullscreen></iframe>
-    <p><a href="https://giphy.com/gifs/newquest-respect-nao-robot-3mfxH0nbfVFLt1gTpq">via GIPHY</a></p>
-
-    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" alt="GIF" />
-  </div>
-</body>
-
-</html>
-
+<h1>
+  <b>Hi everyone! Welcome to my Github profile!<b>   
+</h1>
+  
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"/>
+</div>
 
 ✍️ A few words about me
 
