@@ -1,6 +1,6 @@
 <h1>
   <b>Hi everyone! Welcome to my Github profile!<b>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100"/>
+  <img src="https://giphy.com/gifs/pudgypenguins-lie-dev-data-doesnt-LaVp0AyqR5bGsC5Cbm/fullscreen"/>
 </h1>
 
 
