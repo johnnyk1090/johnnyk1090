@@ -3,7 +3,7 @@
 </h1>
   
 <div id="header" align="center">
-  <img src=""C:\Users\kon17\Downloads\github_fire (1).gif""/>  
+  <img src="C:\Users\kon17\Downloads\github_fire (1).gif"/>  
 </div>
 
 ✍️ A few words about me
