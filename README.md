@@ -3,7 +3,7 @@
 </h1>
   
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjVsY3pkeTVzYWoxaWhuMTFkeGh3YzdpYWdwNHdxNm1ub2swZHE0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7J4P7cUur2DlErijp3/giphy.gif" style="width: 100%; max-width: 800px;"/>  
+  <img src=""C:\Users\kon17\Downloads\github_fire (1).gif""/>  
 </div>
 
 ✍️ A few words about me
