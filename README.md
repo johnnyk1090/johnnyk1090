@@ -2,8 +2,8 @@
   <b>Hi everyone! Welcome to my Github profile!<b>   
 </h1>
   
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjVsY3pkeTVzYWoxaWhuMTFkeGh3YzdpYWdwNHdxNm1ub2swZHE0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7J4P7cUur2DlErijp3/giphy.gif"/>  
+<div id="header" align="center" style="position: relative;">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjVsY3pkeTVzYWoxaWhuMTFkeGh3YzdpYWdwNHdxNm1ub2swZHE0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7J4P7cUur2DlErijp3/giphy.gif" style="width: 100%; max-width: 800px;" />
   <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); background-color: black; color: white; padding: 10px;">
     <p style="margin: 0; font-size: 24px; background-color: black; padding: 5px;">Deadlines first</p>
   </div>
