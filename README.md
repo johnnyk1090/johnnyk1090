@@ -2,13 +2,8 @@
   <b>Hi everyone! Welcome to my Github profile!<b>   
 </h1>
   
-<div align="center">
-  <div style="position: relative; display: inline-block;">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjVsY3pkeTVzYWoxaWhuMTFkeGh3YzdpYWdwNHdxNm1ub2swZHE0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7J4P7cUur2DlErijp3/giphy.gif" style="width: 100%; max-width: 800px;" />
-    <div style="position: absolute; bottom: 0; background-color: black; color: white; width: 100%; padding: 10px;">
-      <p style="margin: 0; font-size: 24px; text-align: center;">Deadlines first</p>
-    </div>
-  </div>
+<div align="center">  
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjVsY3pkeTVzYWoxaWhuMTFkeGh3YzdpYWdwNHdxNm1ub2swZHE0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7J4P7cUur2DlErijp3/giphy.gif" alt="Deadlines first" />
 </div>
 
 ✍️ A few words about me
