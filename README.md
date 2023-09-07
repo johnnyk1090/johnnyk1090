@@ -3,7 +3,7 @@
 </h1>
   
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"/>
+  <img src="https://media.giphy.com/media/4fURyKWTdlZF13oE65/giphy.gif"/>  
 </div>
 
 ✍️ A few words about me
