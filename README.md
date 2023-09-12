@@ -40,5 +40,6 @@
 <div> 
 
   
-### :fire: My Stats :      
+### :fire: My Stats :  
+  ![johnnyk1090's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnnyk1090&hide=contribs,prs,stars&hide_rank=True&theme=great-gatsby)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnyk1090&layout=compact&theme=vision-friendly-dark)                 
