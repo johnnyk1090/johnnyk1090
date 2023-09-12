@@ -41,5 +41,5 @@
 
   
 ### :fire: My Stats :    
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnnyk1090&hide=contribs,prs,ranks)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnnyk1090&hide=contribs,prs,rank)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnyk1090&layout=compact&theme=vision-friendly-dark)                 
