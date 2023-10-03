@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working as a Data Analyst
 - 👷‍ I have worked for a few years as a Software Application Developer and Database Administrator
-- 🧑‍💻 MSc in Computing from University of Sheffield, UK
+- 🧑‍💻 MSc in Computer Science from University of Sheffield, UK
 - 🌱 I’m currently learning NLP (Natural Language Processing)
 - 📫 How to reach me: konteas17giannis@gmail.com
 
