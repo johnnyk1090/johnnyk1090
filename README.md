@@ -14,10 +14,9 @@
 ✍️ A few words about me
 
 
-- 🔭 I’m currently working as a Data Analyst
+- 🔭 I’m currently working as a Data Scientist
 - 👷‍ I have worked for a few years as a Software Application Developer and Database Administrator
 - 🧑‍💻 MSc in Computer Science from University of Sheffield, UK
-- 🌱 I’m currently learning NLP (Natural Language Processing)
 - 📫 How to reach me: konteas17giannis@gmail.com
 
 
