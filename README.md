@@ -1,44 +1,32 @@
-<h1>
-  <b>Hi everyone! Welcome to my Github profile!<b>   
-</h1>
-  
-<div align="center">  
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjVsY3pkeTVzYWoxaWhuMTFkeGh3YzdpYWdwNHdxNm1ub2swZHE0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7J4P7cUur2DlErijp3/giphy.gif" alt="Deadlines first" />
-    <p style="margin: 0; font-size: 24px;">Deadlines first !</p>
-</div>
+<picture>
+  <source media="(max-width: 700px) and (prefers-reduced-motion: reduce)" srcset="assets/film-m-still.jpg">
+  <source media="(max-width: 700px)" srcset="assets/film-m.webp">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/film-still.jpg">
+  <img src="assets/film.webp" width="100%" alt="A short film. John Konteas, end-to-end data science. “Declining from the public ways, walk in unfrequented paths.” Pythagoras. What I bring: data engineering, analysis, deep learning, MLOps, AI engineering. Selected work: AI Document and Data Assistant; App-Store KPIs and A/B Tests; Retail, from EDA to forecast; Medical imaging, U2-Net versus CNN; ESG Dashboard; Quantifying rating bias. How I work: measure, never assume; correctness first, then completion, then speed; privacy is an architecture decision, not a policy; if it is not wired end to end, it is not done; report the true number, especially when it disappoints. Let's build what lasts. konteas17giannis@gmail.com">
+</picture>
 
+<p align="center">
+  <img src="assets/portrait.png" width="200" alt="Portrait of John Konteas">
+</p>
 
+<h3 align="center">I turn raw, messy data into decisions people can trust,<br>and build the systems that keep doing it.</h3>
 
+<p align="center">
+  <a href="mailto:konteas17giannis@gmail.com"><b>konteas17giannis@gmail.com</b></a>
+</p>
 
+<br>
 
-✍️ A few words about me
+<picture>
+  <source media="(max-width: 700px)" srcset="assets/work_m.svg">
+  <img src="assets/work.svg" width="100%" alt="Selected public work. Earlier open work, 2022 to 2024. Most of what I build today is private.">
+</picture>
 
-
-- 🔭 I’m currently working as a Data Scientist
-- 👷‍ I have worked for a few years as a Software Application Developer and Database Administrator
-- 🧑‍💻 MSc in Computer Science from University of Sheffield, UK
-- 📫 How to reach me: konteas17giannis@gmail.com
-
-
-
-🛠️ Languages and Tools
-
-
-<div>  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="numpy/numpy-original-wordmark"  alt="numpy/numpy-original-wordmark" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="Opencv" alt="Opencv" width="40" height="40"/>&nbsp;  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="Pytorch" alt="Pytorch" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg"  title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VScode" alt="Vscode" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="git/git-original-wordmark" alt="git/git-original-wordmark" width="40" height="40"/>&nbsp;      
-<div> 
-
-  
-### :fire: My Stats :  
-  ![johnnyk1090's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnnyk1090&hide=contribs,prs,stars&hide_rank=True&theme=great-gatsby)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnyk1090&layout=compact&theme=vision-friendly-dark)                 
+<p align="center">
+  <a href="https://github.com/johnnyk1090/AI-Powered-Analytics-App"><picture><source media="(max-width: 700px)" srcset="assets/p_assistant_m.svg"><img src="assets/p_assistant.svg" width="49%" alt="AI Document and Data Assistant (2024): question a PDF or CSV in plain language."></picture></a>
+  <a href="https://github.com/johnnyk1090/AB-Testing-and-KPIs-for-Appstore-Games"><picture><source media="(max-width: 700px)" srcset="assets/p_appstore_m.svg"><img src="assets/p_appstore.svg" width="49%" alt="App-Store KPIs and A/B Tests (2023): sentiment, engagement, monetisation, non-parametric A/B testing."></picture></a>
+  <a href="https://github.com/johnnyk1090/Predictive-Retail-Analytics-EDA-to-Forecasting"><picture><source media="(max-width: 700px)" srcset="assets/p_retail_m.svg"><img src="assets/p_retail.svg" width="49%" alt="Retail, from EDA to forecast (2023): revenue, segmentation, cross-country analysis, forecasting."></picture></a>
+  <a href="https://github.com/johnnyk1090/A-Tale-of-Two-Models-U2Net-vs.-CNN-for-Medical-Diagnosis"><picture><source media="(max-width: 700px)" srcset="assets/p_medical_m.svg"><img src="assets/p_medical.svg" width="49%" alt="Medical imaging, U2-Net versus CNN (2022): chest X-ray diagnosis with saliency maps."></picture></a>
+  <a href="https://github.com/johnnyk1090/ESG-Dashboard"><picture><source media="(max-width: 700px)" srcset="assets/p_esg_m.svg"><img src="assets/p_esg.svg" width="49%" alt="ESG Dashboard (2024): electricity access, energy sources, CO2 and GDP across countries since 2000."></picture></a>
+  <a href="https://github.com/johnnyk1090/Quantifying-Bias-A-Website-Ratings-Study"><picture><source media="(max-width: 700px)" srcset="assets/p_bias_m.svg"><img src="assets/p_bias.svg" width="49%" alt="Quantifying Rating Bias (2023): a ticket seller's movie ratings against independent aggregators."></picture></a>
+</p>
