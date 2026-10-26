@@ -2,14 +2,8 @@
   <source media="(max-width: 700px) and (prefers-reduced-motion: reduce)" srcset="assets/film-m-still.jpg">
   <source media="(max-width: 700px)" srcset="assets/film-m.webp">
   <source media="(prefers-reduced-motion: reduce)" srcset="assets/film-still.jpg">
-  <img src="assets/film.webp" width="100%" alt="A short film. John Konteas, end-to-end data science. “Declining from the public ways, walk in unfrequented paths.” Pythagoras. What I bring: data engineering, analysis, deep learning, MLOps, AI engineering. Selected work: AI Document and Data Assistant; App-Store KPIs and A/B Tests; Retail, from EDA to forecast; Medical imaging, U2-Net versus CNN; ESG Dashboard; Quantifying rating bias. How I work: measure, never assume; correctness first, then completion, then speed; privacy is an architecture decision, not a policy; if it is not wired end to end, it is not done; report the true number, especially when it disappoints. Let's build what lasts. konteas17giannis@gmail.com">
+  <img src="assets/film.webp" width="100%" alt="A short film. “Declining from the public ways, walk in unfrequented paths.” Pythagoras. End-to-end data science: data engineering, analysis, deep learning, MLOps, AI engineering. The work: chest X-rays read by U2-Net and a CNN; CO2 emissions by country, 2000 to 2019, on a turning globe; batch normalisation ahead from the first epoch; two years of weekly sales, actual against the model; customer churn, precision 1.00 and recall 0.86 on held-out customers; fossil against renewable power for the forty largest producers; rating bias, the seller's stars above the critics'; downloadable content against positive reviews; the median app-store game at $4.99; a document and data assistant. How I work: measure, never assume; correctness first, then completion, then speed; privacy is an architecture decision, not a policy; if it is not wired end to end, it is not done; report the true number, especially when it disappoints. Let's build what lasts. konteas17giannis@gmail.com">
 </picture>
-
-<p align="center">
-  <img src="assets/portrait.png" width="200" alt="Portrait of John Konteas">
-</p>
-
-<h3 align="center">I turn raw, messy data into decisions people can trust,<br>and build the systems that keep doing it.</h3>
 
 <p align="center">
   <a href="mailto:konteas17giannis@gmail.com"><b>konteas17giannis@gmail.com</b></a>
@@ -19,7 +13,7 @@
 
 <picture>
   <source media="(max-width: 700px)" srcset="assets/work_m.svg">
-  <img src="assets/work.svg" width="100%" alt="Selected public work. Earlier open work, 2022 to 2024. Most of what I build today is private.">
+  <img src="assets/work.svg" width="100%" alt="Selected work, 2022 to 2024.">
 </picture>
 
 <p align="center">
