@@ -1,6 +1,8 @@
 
 https://github.com/user-attachments/assets/5b2da813-a433-47d0-8584-7a06f0f565dc
 
+<p align="center"><a href="https://johnnyk1090.github.io"><b>Watch full screen &#8599;</b></a></p>
+
 
 <p align="center">
   <a href="mailto:konteas17giannis@gmail.com"><b>konteas17giannis@gmail.com</b></a>
