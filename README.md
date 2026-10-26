@@ -1,15 +1,3 @@
-
-https://github.com/user-attachments/assets/5b2da813-a433-47d0-8584-7a06f0f565dc
-
-<p align="center"><a href="https://johnnyk1090.github.io"><b>Watch full screen &#8599;</b></a></p>
-
-
-<p align="center">
-  <a href="mailto:konteas17giannis@gmail.com"><b>konteas17giannis@gmail.com</b></a>
-</p>
-
-<br>
-
 <picture>
   <source media="(max-width: 700px)" srcset="assets/work_m.svg">
   <img src="assets/work.svg" width="100%" alt="Selected work, 2022 to 2024.">
